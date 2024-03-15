@@ -1,0 +1,81 @@
+---
+booktitle: Proceedings of The 35th International Conference on Algorithmic Learning
+  Theory
+shortname: ALT
+volume: '237'
+year: '2024'
+start: 2024-02-25
+end: 2024-02-28
+published: 2024-03-15
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ALT-2024
+month: 0
+cycles: false
+bibtex_editor: Vernade, Claire and Hsu, Daniel
+editor:
+- given: Claire
+  family: Vernade
+- given: Daniel
+  family: Hsu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 35th International Conference on Algorithmic Learning Theory
+    Held in La Jolla, California, USA on 25-28 February 2024
+
+  Published as Volume 237 by the Proceedings of Machine Learning Research on 15 March 2024.
+
+  Volume Edited by:
+    Claire Vernade
+    Daniel Hsu
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 25--28 Feb
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v237"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v237
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v237
+email: ''
+conference:
+  name: International Conference on Algorithmic Learning Theory
+  url: http://algorithmiclearningtheory.org/alt2024/
+  location: La Jolla, California, USA
+  dates:
+  - 2024-02-25
+  - 2024-02-26
+  - 2024-02-27
+  - 2024-02-28
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v237/alt24.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v237/alt24.bib
